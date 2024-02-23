@@ -81,7 +81,7 @@
 }
 
 
-@media (width:375px)  {
+@media (min-width:360px)  {
     .quiz-logo>img{
         width: 18rem;
     }
