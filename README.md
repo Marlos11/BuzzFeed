@@ -1,27 +1,20 @@
-# BuzzFeed
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
+Claro! Vou destacar as tecnologias no README:
 
-## Development server
+Projeto Angular: Super Herói ou Vilão?
+Este é um projeto desenvolvido com Angular 17 e TypeScript, utilizando HTML e CSS para a estrutura e estilização, respectivamente. Foi criado para consolidar conhecimentos sobre essas tecnologias. Durante o desenvolvimento, exploramos conceitos de diretivas, binding, algoritmos e muito mais.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+O projeto consiste em um quiz estilo BuzzFeed, onde o usuário responde a uma série de perguntas e, ao final, descobre se é um super herói ou um vilão. É uma experiência divertida e educativa!
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Principais Características:
+Utilização de diretivas Angular para interatividade dinâmica.
+Implementação de binding para atualização de dados em tempo real.
+Utilização de algoritmos para determinar o resultado do quiz.
+Design atrativo e amigável para uma experiência envolvente.
+Como utilizar o projeto:
+Clone este repositório em sua máquina local.
+Certifique-se de ter o Node.js e o Angular CLI instalados.
+Navegue até o diretório do projeto e execute npm install para instalar as dependências.
+Após a instalação, execute ng serve para iniciar o servidor de desenvolvimento.
+Abra seu navegador e acesse http://localhost:4200 para visualizar o projeto em funcionamento.
+Foi incrível trabalhar neste projeto e esperamos que você goste de experimentá-lo tanto quanto nós gostamos de desenvolvê-lo!
