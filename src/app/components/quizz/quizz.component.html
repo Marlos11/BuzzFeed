@@ -6,7 +6,7 @@
         </h3>
     </div>
     <div class="quiz-question">
-        <h3>Questão Selecionada</h3>
+        <h3>{{questionSelected.question}}</h3>
 
     </div>
     <div class="quiz-option">
@@ -16,7 +16,7 @@
         </button>
 
     </div>
-    <div class="quiz-results">
+    <div *ngIf="finished" class="quiz-results">
         <h1> Seu Resultdo é:</h1>
         <p>Resposta Selecionada</p>
     </div>
